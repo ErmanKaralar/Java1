@@ -13,6 +13,8 @@ public class Merhaba {
         for (int i = 0; i < 10; i++) {
             System.out.println("Task 4 yapıldı");
         }
+
+        System.out.println("Task 5 kodları");
     }
 }
 //Kırmızı renk: Bu dosya henüz takip edilmiyor
